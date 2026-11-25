@@ -1,11 +1,17 @@
 # Inamul Hasan
-Software engineer based in Bangalore, building web and mobile products for e-commerce and healthcare.
 
-**Current stack:** React, Node.js, TypeScript, PostgreSQL.
+Full-stack software engineer based in Bengaluru with 2+ years of full-time experience building web and mobile products.
 
-**Featured projects**
-- [VNatural Website](https://github.com/Inamul-hasan-tec/vnatural-website) — brand website with sourcing, supply-partner, gallery, and contact pages.
-- [Admin Billing Portal](https://github.com/Inamul-hasan-tec/admin-billing-portal) — React admin interface for customers, products, and orders; requires a separate API.
-- [PCI DSS Marketing Website](https://github.com/Inamul-hasan-tec/addsMarketing-site) — responsive service landing page with FAQs and demo-request forms.
+## Featured project · Hall Sync
+
+I built and deployed Hall Sync, a multi-tenant SaaS for banquet halls. Venue teams use it to check availability, manage bookings, record payments, and generate invoices.
+
+I built the Next.js frontend and the Node.js/Express API, modeled bookings and hall slots in MySQL, and deployed the app on Ubuntu with Nginx and PM2.
+
+[Explore the Hall Sync backend](https://github.com/Inamul-hasan-tec/HallSync-Be)
+
+## Technical stack
+
+React, Next.js, React Native, TypeScript, Node.js, Express, PostgreSQL, and MySQL.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/inamul-hasan-167504223/)
