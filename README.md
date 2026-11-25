@@ -8,7 +8,7 @@ I built and deployed Hall Sync, a multi-tenant SaaS for banquet halls. Venue tea
 
 I built the Next.js frontend and the Node.js/Express API, modeled bookings and hall slots in MySQL, and deployed the app on Ubuntu with Nginx and PM2.
 
-[Explore the Hall Sync backend](https://github.com/Inamul-hasan-tec/HallSync-Be)
+[Explore the Hall Sync backend](https://github.com/Inamul-hasan-tec/hallsync-backend)
 
 ## Technical stack
 
